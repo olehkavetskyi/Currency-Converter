@@ -1,5 +1,7 @@
 # Currency Converter
 
+![image](https://github.com/olehkavetskyi/Currency-Converter/assets/110283090/a020c2df-ed23-4528-877f-5094d36b2116)
+
 This project is a simple currency converter built using Angular. It leverages the [ExchangeRate-API](https://app.exchangerate-api.com/) to fetch real-time currency exchange rates.
 
 ## Features
