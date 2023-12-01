@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+// header.component.scss
+
+:host {
+    display: block;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: inherit;
+    color: inherit;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: inherit;
+    color: inherit;
+  }
+  
+  div {
+    margin: 0;
+    padding: 0;
+  }
+  
+  h2, p {
+    margin: 0;
+    padding: 0;
+  }
+  
